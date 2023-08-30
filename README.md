@@ -50,7 +50,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About
 
-[![COMMIT_WEB][product-screenshot]](https://commits-web.vercel.app)
+[![COMMIT_WEB][https://github.com/GuidoClas/commits-web/blob/main/assets/front_cards.PNG]](https://commits-web.vercel.app)
 
 A github commit history viewer 
 
@@ -126,5 +126,3 @@ To run this project on your local machine or deploy it to a server we need to us
 * Website: [guidoclas.com](https://guidoclas.com)
 *	Github: [@GuidoClas](https://github.com/GuidoClas)
 *	LinkedIn: [Guido Clas](https://www.linkedin.com/in/guido-clas/)
-
-[product-screenshot]: assets/front_cards.png

@@ -12,11 +12,11 @@ const Card = ({ commit }: any): JSX.Element => {
         const hoursDifference = Math.floor(timeDifference / (1000 * 60 * 60));
         
         if (hoursDifference === 0) {
-            return "Hace unos minutos";
+            return "Few minutes ago";
         } else if (hoursDifference === 1) {
-            return "Hace 1 hora";
+            return "An hour ago";
         } else {
-            return `Hace ${hoursDifference} horas`;
+            return `${hoursDifference} hours ago`;
         }
     };
   
