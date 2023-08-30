@@ -37,7 +37,7 @@ const Header = (): JSX.Element => {
 
     return (
         <>
-            <nav className="px-5 flex justify-between items-center h-20 bg-slate-50 drop-shadow-md">
+            <nav className="px-5 fixed top-0 left-0 z-50 w-full flex justify-between items-center h-20 bg-slate-50 drop-shadow-md">
                 <div>
                     <a href="https://github.com/GuidoClas/commits-web" className="flex items-center">
                         <svg aria-hidden="true" className="octicon octicon-mark-github" height="45" version="1.1" viewBox="0 0 16 16" width="50">

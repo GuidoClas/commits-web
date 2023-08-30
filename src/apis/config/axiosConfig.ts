@@ -1,6 +1,6 @@
 import axios from "axios"
 
-const BASE_URL = 'https://api-commits.vercel.app/api/v1';
+const BASE_URL = process.env.BASE_URL;
 
 export const api = axios.create({
   withCredentials: true,
