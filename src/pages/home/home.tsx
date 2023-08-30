@@ -9,7 +9,7 @@ const Home = (): JSX.Element => {
     return (
       <div className="container mx-auto py-8 text-center">
         {branch ? 
-          <h1 className="text-3xl font-semibold mb-4">Your commits in {branch}</h1> 
+          <h1 className="text-3xl font-semibold mb-4">Showing all commits in: {branch}</h1> 
           : 
           <h1 className="text-3xl font-semibold mb-4">Please select a branch </h1>}
         <Commits/>
