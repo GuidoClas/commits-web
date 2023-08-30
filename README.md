@@ -50,7 +50,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About
 
-[![COMMIT_WEB][https://github.com/GuidoClas/commits-web/blob/main/assets/front_cards.PNG]](https://commits-web.vercel.app)
+![COMMIT_WEB](https://github.com/GuidoClas/commits-web/blob/main/assets/front_cards.PNG)
 
 A github commit history viewer 
 
