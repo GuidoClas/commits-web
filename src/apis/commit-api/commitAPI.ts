@@ -9,7 +9,7 @@ const CommitAPI = {
     return response.data;
   },
   fetchGetByBranch: async function (branch: string) {
-    const response = await api.get(COMMITS_ENDPOINT + '/' + branch);
+    const response = await api.get(COMMITS_ENDPOINT + '/branch/' + branch);
     return response.data;
   },
   fetchGetBySha: async function (sha: string) {
