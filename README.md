@@ -103,7 +103,7 @@ To run this project on your local machine or deploy it to a server we need to us
    
 2. Once you have done the API setup, clone this repository
     ```sh
-   git clone https://github.com/GuidoClas/commits-web
+   git clone https://github.com/GuidoClas/commits-web.git
    ```
 3. Navigate to the root folder of the project and create an environment file with this variables
     ```sh
